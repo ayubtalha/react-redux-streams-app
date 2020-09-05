@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "First stream it is to be",
+      "id": 1
+    },
+    {
+      "title": "Second stream",
+      "description": "It is my second stream",
+      "id": 2
+    },
+    {
+      "title": "Third stream for User Id",
+      "description": "just checki2",
+      "id": 3
+    },
+    {
+      "title": "fd",
+      "description": "vf",
+      "id": 4
+    },
+    {
+      "title": "hi",
+      "description": "sfsd",
+      "id": 5
+    }
+  ]
+}
