@@ -1,29 +1,22 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "First stream it is to be",
+      "title": "My first Stream",
+      "description": "In this I will be stream tutorial videos",
+      "userId": "105680541658034509966",
       "id": 1
     },
     {
-      "title": "Second stream",
-      "description": "It is my second stream",
+      "title": "Second Stream",
+      "description": "I will stream my gaming videos here",
+      "userId": "105680541658034509966",
       "id": 2
     },
     {
-      "title": "Third stream for User Id",
-      "description": "just checki2",
+      "title": "How to make Blods",
+      "description": "Blogs streaming here",
+      "userId": "100206083621825008242",
       "id": 3
-    },
-    {
-      "title": "fd",
-      "description": "vf",
-      "id": 4
-    },
-    {
-      "title": "hi",
-      "description": "sfsd",
-      "id": 5
     }
   ]
 }
